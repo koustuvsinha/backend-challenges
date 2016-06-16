@@ -1,4 +1,4 @@
-# Backend Challenges [WIP]
+# Backend Challenges [WIP] [![Build Status](https://travis-ci.org/koustuvsinha/backend-challenges.svg?branch=master)](https://travis-ci.org/koustuvsinha/backend-challenges)
 
 [![Join the chat at https://gitter.im/FreeCodeCamp/BackendChallanges](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FreeCodeCamp/BackendChallanges)
 
